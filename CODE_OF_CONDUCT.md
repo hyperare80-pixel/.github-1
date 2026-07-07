@@ -1,4 +1,4 @@
-# Code of Conduct
+https://github.com/pypa/packaging.python.org/issues/927# Code of Conduct
 
 Everyone interacting in [Python Packaging Authority]-supported projects is
 expected to follow the [PSF Code of Conduct]. This includes all infrastructure
